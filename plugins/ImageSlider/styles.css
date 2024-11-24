@@ -1,0 +1,10 @@
+.image-slider {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .image-slider img {
+    max-width: 100%;
+    border-radius: 5px;
+  }
+  

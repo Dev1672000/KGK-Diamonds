@@ -1,0 +1,8 @@
+{
+    "name": "ImageSlider",
+    "description": "A block to display an image slider.",
+    "settings": {
+      "images": []
+    }
+  }
+  
